@@ -1,0 +1,3 @@
+rootProject.name='CarLpr'
+include ':app'
+include ':clpr'
